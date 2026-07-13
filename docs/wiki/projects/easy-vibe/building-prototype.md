@@ -15,7 +15,8 @@ chapter: building-prototype
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 动手做出原型 - 从业务分析到多页面产品原型实现
 
