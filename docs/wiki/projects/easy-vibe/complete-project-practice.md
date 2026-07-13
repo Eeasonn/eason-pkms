@@ -15,7 +15,8 @@ chapter: complete-project-practice
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 完整项目实战 - 从 Demo 到产品级原型
 
