@@ -54,3 +54,19 @@
 - 2026-07-13: 入库 Datawhale《AI 个人知识库为什么难用》→ 创建 AI-Memory-Runtime 概念页（三层架构 + 四权分离）
 - 2026-07-12: 入库 Andrew《90%的 Karpathy 同款知识库注定要吃灰》，创建 DIKW 概念页
 - 2026-07-11: 初始化知识库结构
+
+## Sources
+
+### DuckDB 窗口函数优化技巧
+- **类型**: Source
+- **日期**: 2026-07-12
+- **路径**: `wiki/sources/2026-07-12-DuckDB-窗口函数优化技巧.md`
+- **链接**: [n/a](n/a)
+- **简介**: 上班学习笔记：DuckDB 窗口函数大数据量性能优化，CTE分段处理提升10x速度
+
+### The Future Worth Building Is Human
+- **类型**: Source
+- **日期**: 2026-07-11
+- **路径**: `wiki/sources/2026-07-11-The-Future-Worth-Building-Is-Human.md`
+- **链接**: [https://thinkingmachines.ai/blog/the-future-worth-building-is-human/](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+- **简介**: Thinking Machines 关于 AI 与人类协作的深度文章，核心观点：AI 应服务于人类工作而非取代人类，强调分布式隐性知识和去中心化对齐
