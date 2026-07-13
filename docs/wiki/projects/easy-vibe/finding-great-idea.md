@@ -15,7 +15,8 @@ chapter: finding-great-idea
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 找到好点子 - 从用户需求到有人买单
 
