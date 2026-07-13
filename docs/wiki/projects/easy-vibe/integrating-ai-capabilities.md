@@ -35,6 +35,23 @@ next_review: 2026-07-20
 
 （自由补充）
 
+
+## 核心要点
+
+- AI 应用三类能力：文本生成、图像理解、结构化推理
+- Function Calling 是 LLM 调用外部工具的标准方式
+- 上下文窗口管理是 AI 应用的核心难题
+- 流式输出 (streaming) 显著提升用户体验
+
+## 关键洞察
+
+> AI 应用 80% 的复杂度不在 AI 本身，而在'上下文'和'工具'的工程化。
+
+## 可立刻应用的行动
+
+- [ ] 选一个 AI API（OpenAI/Anthropic/MiniMax）做 Function Calling demo
+- [ ] 用 streaming 改造你现有的一个 AI 调用
+
 ## 复习问题
 
 （自由补充）
