@@ -15,7 +15,8 @@ chapter: integrating-ai-capabilities
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 给原型加上 AI 能力 - 接入文本与图像 API
 
