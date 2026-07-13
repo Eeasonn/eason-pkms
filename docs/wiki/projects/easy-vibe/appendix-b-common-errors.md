@@ -15,7 +15,8 @@ chapter: appendix-b-common-errors
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 写代码时遇到错误怎么办 - 截图问 AI 的实战指南
 
