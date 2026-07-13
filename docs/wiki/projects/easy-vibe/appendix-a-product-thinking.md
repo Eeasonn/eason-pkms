@@ -15,7 +15,8 @@ chapter: appendix-a-product-thinking
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 产品思维与方案设计
 
