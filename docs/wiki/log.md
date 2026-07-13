@@ -53,4 +53,6 @@
   - Kimi_Agent_AI原生数据治理 → 项目页
   - 528 Demo 讨论 → 来源页
   - DataHub / WrenAI → 实体页
+- 2026-07-13 23:27 — inbox_triage.py: 移动 `2026-07-11-The-Future-Worth-Building-Is-Human.md` 到 wiki/sources/ — The Future Worth Building Is Human
+- 2026-07-13 23:27 — inbox_triage.py: 移动 `2026-07-12-DuckDB-窗口函数优化技巧.md` 到 wiki/sources/ — DuckDB 窗口函数优化技巧
 
