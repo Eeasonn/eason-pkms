@@ -7,7 +7,8 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Wiki', link: '/wiki/' },
-      { text: 'Index', link: '/wiki/index' }
+      { text: '复习', link: '/wiki/review' },
+    { text: 'Index', link: '/wiki/index' }
     ],
     sidebar: {
       '/wiki/': [
@@ -18,7 +19,8 @@ export default {
             { text: '概念', link: '/wiki/concepts/' },
             { text: '实体', link: '/wiki/entities/' },
             { text: '来源', link: '/wiki/sources/' },
-            { text: '项目', link: '/wiki/projects/' }
+            { text: '项目', link: '/wiki/projects/' },
+            { text: 'Easy-Vibe 课程', link: '/wiki/projects/easy-vibe/' }
           ]
         }
       ]
