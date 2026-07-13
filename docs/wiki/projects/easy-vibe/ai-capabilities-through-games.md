@@ -15,7 +15,8 @@ chapter: ai-capabilities-through-games
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 初级一：AI 时代，会说话就会编程
 
