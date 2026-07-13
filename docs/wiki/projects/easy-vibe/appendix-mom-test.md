@@ -15,7 +15,8 @@ chapter: appendix-mom-test
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # The Mom Test：如何通过用户访谈验证需求
 
