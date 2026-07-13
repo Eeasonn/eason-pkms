@@ -6,6 +6,28 @@
 
 ---
 
+## 2026-07-13
+
+* **抓取**: Datawhale 公众号《吹了几年的 AI 个人知识库，为什么还是那么难用？》→ 微信公众号完整提取
+  - 工具: weixin-article-reader v1.1.0
+  - 关键修复: 保留 `<img data-src>` 转 markdown 格式（4/4 图片 HTTP 200）、嵌套 div 精准截断（避免吃掉整页 JS）
+  - 完整原文 569 行, 4 张图, ~8000 字
+  - 原始位置: [[raw/articles/2026-07-13-datawhale-karpathy-knowledge-base-runtime]]
+* **入库**: 原文归档到 raw/articles/ 和 inbox/
+* **编译**: 创建 [[sources/2026-07-13-datawhale-karpathy-knowledge-base-runtime]]
+  - 核心论点: AI 知识库是"运行时"问题，不是"存储检索"问题
+  - 关键洞察: 四类方案对比 / 三层架构 / 四权分离 / 五个评估指标 / 主张 vs 段落
+  - 危险案例: 上下文压缩把"不要执行任何动作"约束丢了
+* **概念**: 新建 [[concepts/AI-Memory-Runtime]]
+  - 三层架构图（运行时 / 知识 / 权限）
+  - 四权分离表
+  - 五个评估指标
+  - 与 PKMS / Hermes / OpenClaw / Karpathy 的关系
+* **复习**: 创建 2026-08-12 复习任务（间隔 30 天）
+* **索引**: 更新总目录统计（概念 +1, 来源 +1, 待复习 +2）
+
+---
+
 ## 2026-07-12
 
 * **入库**: Andrew《90%的 Karpathy 同款知识库注定要吃灰》→ 来源页 + Raw 归档
