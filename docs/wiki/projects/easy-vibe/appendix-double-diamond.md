@@ -15,7 +15,8 @@ chapter: appendix-double-diamond
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 双钻模型：先做对的事，再把事做对
 
