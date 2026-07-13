@@ -15,7 +15,8 @@ chapter: introduction-to-ai-ide
 annotation_source: hypothes.is (public)
 review_count: 1
 last_review: 2026-07-13
-next_review: 2026-07-20---
+next_review: 2026-07-20
+---
 
 # 初级二：学会 AI 编程工具
 
