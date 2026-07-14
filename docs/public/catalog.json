@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-14T20:18:20",
+  "generated_at": "2026-07-14T21:08:56",
   "pkms_root": "/Users/eason/.openclaw/workspace/PKMS",
-  "total": 40,
+  "total": 41,
   "type_counts": {
     "web": 3,
-    "note": 4,
+    "note": 5,
     "gzh": 2,
     "concept": 5,
     "entity": 3,
@@ -17,7 +17,7 @@
     "concepts": 5,
     "entities": 3,
     "projects": 19,
-    "inbox": 3,
+    "inbox": 4,
     "review": 4
   },
   "items": [
@@ -843,6 +843,22 @@
       "status": "inbox",
       "wiki_path": "inbox/2026-07-13-datawhale-karpathy-knowledge-base-runtime.md",
       "filename": "2026-07-13-datawhale-karpathy-knowledge-base-runtime.md"
+    },
+    {
+      "id": "inbox/cascade-test-item.md",
+      "category": "inbox",
+      "type": "note",
+      "type_label": "📥 未处理 · 📝 内部笔记",
+      "title": "级联删除测试",
+      "description": "这是一条测试内容",
+      "author": "",
+      "platform": "",
+      "url": "",
+      "tags": [],
+      "date": "",
+      "status": "inbox",
+      "wiki_path": "inbox/cascade-test-item.md",
+      "filename": "cascade-test-item.md"
     },
     {
       "id": "review/due-2026-07-12.md",
