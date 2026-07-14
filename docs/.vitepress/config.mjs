@@ -6,6 +6,7 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: '目录', link: '/catalog' },
       { text: 'Wiki', link: '/wiki/' },
       { text: '复习', link: '/wiki/review' },
     { text: 'Index', link: '/wiki/index' }
@@ -25,6 +26,14 @@ export default {
         }
       ]
     },
+    '/catalog/': [
+      {
+        text: '全量目录',
+        items: [
+          { text: '全部内容', link: '/catalog' }
+        ]
+      }
+    ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com' }
     ]
