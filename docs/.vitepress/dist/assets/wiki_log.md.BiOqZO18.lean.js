@@ -1,0 +1,1 @@
+import{_ as l,o as t,c as e,a0 as o}from"./chunks/framework.CED9SG98.js";const h=JSON.parse('{"title":"知识库操作日志","description":"","frontmatter":{},"headers":[],"relativePath":"wiki/log.md","filePath":"wiki/log.md"}'),r={name:"wiki/log.md"};function a(n,i,s,u,d,c){return t(),e("div",null,[...i[0]||(i[0]=[o("",12)])])}const m=l(r,[["render",a]]);export{h as __pageData,m as default};
