@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-14T21:19:00",
+  "generated_at": "2026-07-15T18:12:51",
   "pkms_root": "/Users/eason/.openclaw/workspace/PKMS",
-  "total": 40,
+  "total": 39,
   "type_counts": {
     "web": 3,
-    "note": 4,
+    "note": 3,
     "gzh": 2,
     "concept": 5,
     "entity": 3,
@@ -13,7 +13,7 @@
     "review": 4
   },
   "categories": {
-    "sources": 6,
+    "sources": 5,
     "concepts": 5,
     "entities": 3,
     "projects": 19,
@@ -69,31 +69,6 @@
       "next_review": "2026-07-12",
       "wiki_path": "wiki/sources/2026-07-11-google-okf.md",
       "filename": "2026-07-11-google-okf.md"
-    },
-    {
-      "id": "sources/2026-07-12-528-demo-discussion.md",
-      "category": "sources",
-      "type": "note",
-      "type_label": "📝 内部笔记",
-      "title": "528 Demo 方向讨论 — DataHub + WrenAI 语义层建设方案",
-      "description": "与 Kimi 的深入讨论，关于 AI 辅助语义层建设的可行方案、DataHub 能力分析、开源工具全景调研",
-      "author": "Eason + Kimi",
-      "platform": "内部讨论",
-      "url": "",
-      "tags": [
-        "AI",
-        "数据治理",
-        "语义层",
-        "DataHub",
-        "WrenAI",
-        "工作"
-      ],
-      "date": "2026-07-12",
-      "status": "compiled",
-      "review_count": 0,
-      "next_review": "2026-07-13",
-      "wiki_path": "wiki/sources/2026-07-12-528-demo-discussion.md",
-      "filename": "2026-07-12-528-demo-discussion.md"
     },
     {
       "id": "sources/2026-07-12-DuckDB-窗口函数优化技巧.md",
