@@ -15,10 +15,10 @@ const deleting = ref(false)
 const error = ref('')
 
 const backendBase = (() => {
-  if (typeof window === 'undefined') return 'https://cold-news-spend.loca.lt'
+  if (typeof window === 'undefined') return 'https://little-dingos-mate.loca.lt'
   // 优先用环境变量覆盖（生产构建时可设）
   // @ts-ignore
-  return (window as any).__PKMS_BACKEND__ || 'https://cold-news-spend.loca.lt'
+  return (window as any).__PKMS_BACKEND__ || 'https://little-dingos-mate.loca.lt'
 })()
 
 const startConfirm = () => {
