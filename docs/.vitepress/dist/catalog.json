@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-14T21:08:56",
+  "generated_at": "2026-07-15T18:12:51",
   "pkms_root": "/Users/eason/.openclaw/workspace/PKMS",
-  "total": 41,
+  "total": 39,
   "type_counts": {
     "web": 3,
-    "note": 5,
+    "note": 3,
     "gzh": 2,
     "concept": 5,
     "entity": 3,
@@ -13,11 +13,11 @@
     "review": 4
   },
   "categories": {
-    "sources": 6,
+    "sources": 5,
     "concepts": 5,
     "entities": 3,
     "projects": 19,
-    "inbox": 4,
+    "inbox": 3,
     "review": 4
   },
   "items": [
@@ -69,31 +69,6 @@
       "next_review": "2026-07-12",
       "wiki_path": "wiki/sources/2026-07-11-google-okf.md",
       "filename": "2026-07-11-google-okf.md"
-    },
-    {
-      "id": "sources/2026-07-12-528-demo-discussion.md",
-      "category": "sources",
-      "type": "note",
-      "type_label": "📝 内部笔记",
-      "title": "528 Demo 方向讨论 — DataHub + WrenAI 语义层建设方案",
-      "description": "与 Kimi 的深入讨论，关于 AI 辅助语义层建设的可行方案、DataHub 能力分析、开源工具全景调研",
-      "author": "Eason + Kimi",
-      "platform": "内部讨论",
-      "url": "",
-      "tags": [
-        "AI",
-        "数据治理",
-        "语义层",
-        "DataHub",
-        "WrenAI",
-        "工作"
-      ],
-      "date": "2026-07-12",
-      "status": "compiled",
-      "review_count": 0,
-      "next_review": "2026-07-13",
-      "wiki_path": "wiki/sources/2026-07-12-528-demo-discussion.md",
-      "filename": "2026-07-12-528-demo-discussion.md"
     },
     {
       "id": "sources/2026-07-12-DuckDB-窗口函数优化技巧.md",
@@ -843,22 +818,6 @@
       "status": "inbox",
       "wiki_path": "inbox/2026-07-13-datawhale-karpathy-knowledge-base-runtime.md",
       "filename": "2026-07-13-datawhale-karpathy-knowledge-base-runtime.md"
-    },
-    {
-      "id": "inbox/cascade-test-item.md",
-      "category": "inbox",
-      "type": "note",
-      "type_label": "📥 未处理 · 📝 内部笔记",
-      "title": "级联删除测试",
-      "description": "这是一条测试内容",
-      "author": "",
-      "platform": "",
-      "url": "",
-      "tags": [],
-      "date": "",
-      "status": "inbox",
-      "wiki_path": "inbox/cascade-test-item.md",
-      "filename": "cascade-test-item.md"
     },
     {
       "id": "review/due-2026-07-12.md",
